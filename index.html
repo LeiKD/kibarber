@@ -8,18 +8,31 @@
 </head>
 <body>
   <div class="contact"><br><br>
-    <h1>CONTACT US</h1><br>
+    <h1>CONTACT US</h1>
     <h2>Book An Appointment Below</h2>
     <form>
       <table>
-        <label>Name:</label>
-        <input type="text" placeholder="Enter your name here..." id="name">
-        <label>Email:</label>
-        <input type="email" placeholder="Enter your email here..." id="email"> 
-      </table>
+        <label>Name_</label>
+        <input type="text" placeholder=" Enter your name here..." id="name">
+        <label>Email_</label>
+        <input type="email" placeholder=" Enter your email here..." id="email"> 
+      </table><br>
       <table>
-        
-      </table>
+        <label>Type of Service_</label>
+        <select name="service" id="service">
+          <option value=""></option>
+          <option value=""></option>
+          <option value=""></option>
+          <option value=""></option>
+          <option value=""></option>
+          <option value=""></option>
+        </select>
+        <label>Enter the date_</label>
+        <input type="date" id="date">
+      </table><br>
+      <label>Enter the time:</label>
+      <input type="time" id="time"><br><br>
+      <button onclick="book()" style="background-color: transparent;" id="book">Book Now</button>
     </form>
   </div>
   <script

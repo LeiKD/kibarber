@@ -3,14 +3,24 @@
   text-align: center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 800px;
+  height: 1000px;
   color: white;
   font-family: 'Caveat';
+  font-size: 40px;
+}
+.contact h1{
+  font-size: 100px;
+}
+.contact h2{
+  font-size: 80px;
 }
 input{
-  margin-right: 150px;
+  margin-right: 100px;
   background-color: transparent;
 }
 ::placeholder{
   color: white;
+}
+select{
+  margin-right: 50px;
 }
