@@ -1,4 +1,16 @@
 .contact{
-  background-image: url("https://bit.ly/3clpan8");
+  background-image: url("https://bit.ly/2VK9AeK");
   text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+  color: white;
+  font-family: 'Caveat';
+}
+input{
+  margin-right: 150px;
+  background-color: transparent;
+}
+::placeholder{
+  color: white;
 }
