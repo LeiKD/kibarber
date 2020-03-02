@@ -24,3 +24,6 @@ input{
 select{
   margin-right: 50px;
 }
+button{
+  border-color: transparent;
+}
