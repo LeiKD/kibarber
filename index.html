@@ -7,7 +7,7 @@
   <title>CONTACT US</title>
 </head>
 <body>
-  <div class="contact"><br><br>
+  <div class="contact" id="contact"><br><br>
     <h1>CONTACT US</h1>
     <h2>Book An Appointment Below</h2>
     <form>
@@ -21,19 +21,27 @@
         <label>Type of Service_</label>
         <select name="service" id="service">
           <option value="haircut">Haircuts</option>
-          <option value="tatoo">Tattoos</option>
+          <option value="tattoo">Tattoos</option>
           <option value="bridal styling">Bridal Styling</option>
+          <option value="bridal weaving">Bridal Weaving</option>
           <option value="manicure/pedicure">Manicure/Pedicure</option>
           <option value="hair color">Hair Color</option>
-          <option value=""></option>
         </select>
         <label>Enter the date_</label>
         <input type="date" id="date">
       </table><br>
       <label>Enter the time:</label>
       <input type="time" id="time"><br><br>
-      <button type="button" onclick="book()" style="background-color: transparent; color: white;" id="book">Book Now!</button>
+      <button type="button" onclick="order()" style="background-color: transparent; color: white;" class="book">Book Now!</button>
     </form>
+  </div>
+  <div class="summary" id="summary"><br><br>
+    <h2>Summary of your Appointment</h2>
+    <p id="x"></p>
+    <p id="y"></p>
+    <p id="z"></p>
+    <p id="ad"></p>
+    <button class="book" style="background: transparent; color: white;">OK</button>
   </div>
   <script
   src="https://code.jquery.com/jquery-3.4.1.js"

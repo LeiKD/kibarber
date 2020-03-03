@@ -17,6 +17,7 @@
 input{
   margin-right: 100px;
   background-color: transparent;
+  border-radius: 10px;
 }
 ::placeholder{
   color: white;
@@ -26,4 +27,21 @@ select{
 }
 button{
   border-color: transparent;
+}
+.summary{
+  display: none;
+  text-align: center;
+  background-image: url("https://bit.ly/39j5FK3");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Caveat';
+  height: 1500;
+  color: white;
+  font-size: 40px;
+}
+.summary h2{
+  color: white;
+  text-decoration-line: underline;
+  font-size: 80px;
+
 }
