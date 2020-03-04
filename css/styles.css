@@ -1,0 +1,68 @@
+#home{
+    background-image: url(https://bit.ly/39k7x5m);
+    background-attachment: fixed;
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-height: 1500px;
+    max-width: 1000px;
+    float: center;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    color: black;
+    
+    background-size: cover;
+    text-align: center;
+    color: black;
+  font-size: xx-larger;
+}
+
+
+#welcome{text-align: center;
+  color: white;
+  font-size: xx-larger;
+  /* font-family: 'Trade Winds';font-size: 22px; */
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color:palevioletred;
+      font-size: xx-large;
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    li a:hover {
+      background-color: #ddd;
+    }
+    
+    /* .active {
+      background-color:black;
+    } */
+    body{background-image: url(https://bit.ly/32PZFpS);
+    background-attachment: fixed;
+    background-size: cover;
+    }
+
+    .home_haba{text-align: center;
+    color: white;
+  font-size: xx-larger;}
