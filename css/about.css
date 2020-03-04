@@ -4,13 +4,13 @@
     background-repeat: no-repeat;
     text-align: center; 
     height: 500px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 30px;
 }
 .story h1{
     font-size: 70px;
     text-decoration-line: underline;
-    color: rgb(25, 216, 216);
+    color: lightblue;
 }
 .our-team{
     text-align: center;
