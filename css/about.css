@@ -1,16 +1,19 @@
+*{
+    overflow-x: hidden;
+}
 .story{
     background-image: url("../images/20-words-your-barber-will-use-HERO.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center; 
     height: 500px;
-    color: white;
+    color: rgb(255, 255, 255);
     font-size: 30px;
 }
 .story h1{
     font-size: 70px;
     text-decoration-line: underline;
-    color: rgb(0, 255, 255);
+    color: lightblue;
 }
 .our-team{
     text-align: center;
