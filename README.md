@@ -1,5 +1,5 @@
 ## kiberber
-This is a website that advertises a pizza company called Kapizza.
+This is a website on a beauty shop entailing berber services,salon and piercing its called kiberber.
 ## Authors
 * George kamau
 * Shem Ian
@@ -7,7 +7,7 @@ This is a website that advertises a pizza company called Kapizza.
 * Donald Komen
 * Cabral Chege
 ## Description
-'kapizza' is an elaborate webpage that provoides all relevant information about a pizza company known as Kapizza, to the user concerning the available pizza dishes and thereafter enabling them to order. Furthermore, its contact information is duly displayed. Its clear instructions ensures that the users find it easy to operate it.
+The webpage is for advertising a a beauty shop called kiberber,it is located in Nairobi CBD, it offers several services:tatoo piercing,peddicure,haircuts and salonist .
 ## Setup/Installation Requirements
 * Make sure your device is connected to the internet.
 * Open any web browser preferrably Google Chrome or Mozilla Firefox.
