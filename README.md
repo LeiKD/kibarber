@@ -1,4 +1,4 @@
-## kiberber
+## kibarber
 This is a website on a beauty shop entailing berber services,salon and piercing its called kiberber.
 ## Authors
 * George kamau
