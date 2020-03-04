@@ -1,0 +1,41 @@
+*{
+    overflow-x: hidden;
+}
+.feedback{
+    text-align: center;
+    padding-top: 15%;
+    background-image: url("https://bit.ly/2TkyfoN");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+#name{
+    /* padding-bottom: 20px; */
+    width: 40vh;
+    margin: 30px;
+    padding-left: 13px;
+    border-radius: 15px;
+    
+}
+.form{
+margin-left: 20px;
+}
+
+.text{
+padding-bottom: 30px;
+height: 25vh;
+}
+#msg{
+    height: 20vh;
+    width: 70vh;
+    border-radius: 15px;
+}
+#email{
+width: 40vh;
+border-radius: 15px;
+padding-left: 13px;
+}
+.feedback h1{
+    color: antiquewhite;
+    font-size: x-large;
+}
