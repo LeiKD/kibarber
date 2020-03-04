@@ -26,6 +26,7 @@
       background-color:palevioletred;
       font-size: x-large;
       position: fixed;
+      width: 100%;
     }
     
     li {
