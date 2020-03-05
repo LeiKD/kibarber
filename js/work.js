@@ -1,5 +1,3 @@
-
-  
 $(document).ready(function () {
     $(".tattoo").click(function() {
         $("#tattoo-show").slideToggle()
