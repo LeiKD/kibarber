@@ -1,12 +1,3 @@
-#designs_p{font-size: medium;
-  display: none;
-}
-#prod_p{display: none;
-  font-size: medium;
-}
-#dev_p{display: none;
-  font-size: medium;
-}
 h1{
   text-align: center;
   color: black;
@@ -15,6 +6,10 @@ body{
   font-family: 'Playfair Display' serif;
   color: black;
   background-color: palevioletred;
+}
+.work h1{
+  text-align: center;
+  color: black;
 }
 img{
   height: 200px;
