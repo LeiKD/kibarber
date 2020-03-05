@@ -20,7 +20,7 @@ This project incorporates the use of **HTML**, **CSS**,**Javascript(jQuery)** la
 ## Support and contact details
 Incase of any complications or technicalities, please contact either the cell-phone number: *+254703171010* or the email: *shemian092@gmail.com*
 ## Github pages link
-  <https://leikd.github.io/kiberber/.>
+  <https://shemian.github.io/kibarber/.>
 ## MIT license
 Copyright (c) 2020 Shem Ian
 Permission is hereby granted, free of charge, to any person obtaining a copy
