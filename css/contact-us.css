@@ -1,0 +1,49 @@
+.contact{
+  background-image: url("https://bit.ly/2VK9AeK");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  color: white;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-size: 30px;
+}
+.contact h1{
+  font-size: 60px;
+  text-decoration-line: underline;
+}
+.contact h2{
+  font-size: 40px;
+  color: white;
+}
+input{
+  margin-right: 20px;
+  background-color: transparent;
+  border-radius: 10px;
+}
+::placeholder{
+  color: white;
+}
+select{
+  margin-right: 10px;
+}
+button{
+  border-color: transparent;
+}
+.summary{
+  display: none;
+  text-align: center;
+  background-image: url("https://bit.ly/39j5FK3");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'PT Sans Caption', sans-serif;
+  height: 1500;
+  color: white;
+  font-size: 40px;
+}
+.summary h2{
+  color: white;
+  text-decoration-line: underline;
+  font-size: 80px;
+
+}
