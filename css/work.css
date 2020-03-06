@@ -1,5 +1,6 @@
 *{
   overflow-x: hidden;
+
 }
 h1{
   text-align: center;
@@ -8,7 +9,12 @@ h1{
 body{
   font-family: 'Playfair Display' serif;
   color: black;
-  background-color: palevioletred;
+  /* background-color: palevioletred; */
+ background-image: url("https://bit.ly/32PZFpS"); 
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 800px;
 }
 .work h1{
   text-align: center;
@@ -61,4 +67,7 @@ li a {
 }
 li a:hover {
   background-color: #ddd;
+}
+.tat_img{
+  border-radius: 10px;
 }
